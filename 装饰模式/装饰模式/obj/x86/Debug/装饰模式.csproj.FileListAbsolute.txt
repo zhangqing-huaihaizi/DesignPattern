@@ -1,0 +1,4 @@
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\装饰模式\装饰模式\bin\Debug\装饰模式.exe
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\装饰模式\装饰模式\bin\Debug\装饰模式.pdb
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\装饰模式\装饰模式\obj\x86\Debug\装饰模式.exe
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\装饰模式\装饰模式\obj\x86\Debug\装饰模式.pdb

@@ -1,0 +1,10 @@
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\商场收银软件\商场收银软件\obj\x86\Debug\商场收银软件.Form1.resources
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\商场收银软件\商场收银软件\obj\x86\Debug\商场收银软件.Properties.Resources.resources
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\商场收银软件\商场收银软件\obj\x86\Debug\商场收银软件.csproj.GenerateResource.Cache
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\商场收银软件\商场收银软件\bin\Debug\商场收银软件.exe
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\商场收银软件\商场收银软件\bin\Debug\商场收银软件.pdb
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\商场收银软件\商场收银软件\obj\x86\Debug\商场收银软件.exe
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\商场收银软件\商场收银软件\obj\x86\Debug\商场收银软件.pdb
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\商场收银软件\商场收银软件\obj\x86\Debug\商场收银软件.csprojResolveAssemblyReference.cache
+E:\GitHub\DesignPattern\商场收银软件\商场收银软件\obj\x86\Debug\商场收银软件.exe
+E:\GitHub\DesignPattern\商场收银软件\商场收银软件\obj\x86\Debug\商场收银软件.pdb
