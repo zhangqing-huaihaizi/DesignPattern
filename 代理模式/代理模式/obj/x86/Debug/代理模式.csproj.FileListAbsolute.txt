@@ -1,0 +1,4 @@
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\代理模式\代理模式\bin\Debug\代理模式.exe
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\代理模式\代理模式\bin\Debug\代理模式.pdb
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\代理模式\代理模式\obj\x86\Debug\代理模式.exe
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\代理模式\代理模式\obj\x86\Debug\代理模式.pdb
