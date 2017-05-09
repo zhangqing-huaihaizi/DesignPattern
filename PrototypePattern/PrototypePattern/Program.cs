@@ -26,40 +26,68 @@ namespace PrototypePattern
             Console.Read();
         }
     }
+    class WorkExperience : ICloneable
+    {
+        private string workDate;
+        public string WorkDate
+        {
+            get { return workDate; }
+            set { workDate = value; }
+        }
+        private string company;
+        public string Company
+        {
+            get { return company; }
+            set { company = value; }
+        }
+        public Object Clone()
+        {
+            return (Object)this.MemberwiseClone();
+        }
+    }
     class Resume : ICloneable
     {
         private string name;
         private string sex;
         private string age;
-        private string timeArea;
-        private string company;
+        private WorkExperience work;
 
         public Resume(string name)
         {
             this.name = name;
+            work = new WorkExperience();
         }
+        private Resume(WorkExperience work)
+        {
+            this.work = (WorkExperience)work.Clone();
+        }
+
         public void setPersonalInfo(string sex, string age)
         {
             this.sex = sex;
             this.age = age;
         }
 
-        public void setWorkExperience(string timeArea, string company)
+        public void setWorkExperience(string workDate, string company)
         {
-            this.timeArea = timeArea;
-            this.company = company;
+            work.WorkDate = workDate;
+            work.Company = company;
         }
 
         //显示
         public void Display()
         {
             Console.WriteLine("{0} {1} {2}", name, sex, age);
-            Console.WriteLine("工作经历：{0} {1}", timeArea, company);
+            Console.WriteLine("工作经历：{0} {1}", work.WorkDate, work.Company);
         }
 
         public Object Clone()
         {
-            return (Object)this.MemberwiseClone();
+            Resume obj = new Resume(this.work);
+            obj.name = this.name;
+            obj.sex = this.sex;
+            obj.age = this.age;
+            return obj;
         }
     }
 }

@@ -2,3 +2,7 @@ C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\PrototypePattern\Protot
 C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
 C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.exe
 C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.pdb
+E:\GitHub\DesignPattern\PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.exe
+E:\GitHub\DesignPattern\PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.pdb
+E:\GitHub\DesignPattern\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.exe
+E:\GitHub\DesignPattern\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
