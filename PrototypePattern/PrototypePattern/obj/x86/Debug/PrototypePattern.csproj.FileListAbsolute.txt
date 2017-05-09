@@ -1,0 +1,4 @@
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.exe
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.exe
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\PrototypePattern\PrototypePattern\obj\x86\Debug\PrototypePattern.pdb
