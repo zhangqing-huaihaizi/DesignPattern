@@ -1,0 +1,4 @@
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\BuilderPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.exe
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\BuilderPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.pdb
