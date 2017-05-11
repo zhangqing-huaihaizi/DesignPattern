@@ -1,0 +1,4 @@
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\FacadePattern\FacadePattern\bin\Debug\FacadePattern.pdb
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\FacadePattern\FacadePattern\obj\x86\Debug\FacadePattern.exe
+C:\Users\zhangqing\Documents\Visual Studio 2010\Projects\FacadePattern\FacadePattern\obj\x86\Debug\FacadePattern.pdb
